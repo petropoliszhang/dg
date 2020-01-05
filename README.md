@@ -5,15 +5,12 @@ This repositary contains the solution to the coding homework for APMA 2810 Disco
 Use DG to find the solution to the following equation:
 <p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_x=\cos x, &amp;  0\leq x \leq 1\\&#10;             u(0)=0 &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/13344509d7232284f0fb074711415c7a.png" align="middle" width="447.71743994999997pt" height="39.452455349999994pt"/></p>
 and plot <img alt="$L_1$" src="svgs/929ed909014029a206f344a28aa47d15.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_2$" src="svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_{\infty}$" src="svgs/986e40e0f11ab0c97cfd953d6e3fb747.png" align="middle" width="24.292324649999987pt" height="22.465723500000017pt"/> error tables.
-=======
-and plot <img alt="$L_1$" src="https://rawgit.com/zzhang222/dg/master/svgs/929ed909014029a206f344a28aa47d15.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_2$" src="https://rawgit.com/zzhang222/dg/master/svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_{\infty}$" src="https://rawgit.com/zzhang222/dg/master/svgs/986e40e0f11ab0c97cfd953d6e3fb747.png" align="middle" width="24.292324649999987pt" height="22.465723500000017pt"/> error tables.
->>>>>>> 58b86afa45e861b7be687cf6ff88ae18d82ec6b2
 
 ### **HW2**
 
 Use DG to find the solution to the following equation with two different initial conditions on <img alt="$[0,2\pi]\times[0,2\pi]$" src="svgs/0f1880c6e7bbc3ac10285066ac8ba019.png" align="middle" width="105.76486634999999pt" height="24.65753399999998pt"/>:
 <p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_t+u_x=0, \\&#10;             u(x,0)=\sin(x) &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/825df8af772fed0c9d30e6b4442110fd.png" align="middle" width="429.42427605pt" height="39.452455349999994pt"/></p>
-\
+
 <p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_t+u_x=0, \\&#10;             u(x,0)=1, &amp;  x\in(\frac{\pi}{2},\frac{3\pi}{2})\\&#10;             u(x,0)=0, &amp;  x\in(0,\frac{\pi}{2})\cup(\frac{3\pi}{2},2\pi)&#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/f7d752fc0ab8308a0f68f8073ba3a8ac.png" align="middle" width="491.1943278pt" height="59.178683850000006pt"/></p>
 and plot <img alt="$L_1$" src="svgs/929ed909014029a206f344a28aa47d15.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_2$" src="svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_{\infty}$" src="svgs/986e40e0f11ab0c97cfd953d6e3fb747.png" align="middle" width="24.292324649999987pt" height="22.465723500000017pt"/> error tables.
 
@@ -53,6 +50,6 @@ Use Ultra-weak scheme to solve the problem last week and plot error tables.
 
 Use LDG to find the solution to the following two equations on <img alt="$[0,2\pi]\times[0,1]$" src="svgs/0bb8c0cc4fff220f3dc9ff3b13b2c985.png" align="middle" width="95.80477829999998pt" height="24.65753399999998pt"/>:
 <p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_t+u_x=\epsilon u_{xx}, \\&#10;             u(x,0)=\sin(x) &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/bd1e61bdc049b95a08d40047a42420a0.png" align="middle" width="429.42427605pt" height="39.452455349999994pt"/></p>
-\
+
 <p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_t+u_x=\epsilon u_{xxx}, \\&#10;             u(x,0)=\sin(x) &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/2c27fc6a7dbaac2b81ce8d7484c7e75a.png" align="middle" width="433.0896207pt" height="39.452455349999994pt"/></p>
 and plot <img alt="$L_1$" src="svgs/929ed909014029a206f344a28aa47d15.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_2$" src="svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_{\infty}$" src="svgs/986e40e0f11ab0c97cfd953d6e3fb747.png" align="middle" width="24.292324649999987pt" height="22.465723500000017pt"/> error tables.
