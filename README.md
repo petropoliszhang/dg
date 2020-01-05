@@ -103,8 +103,3 @@ Use LDG to find the solution to the following two equations on $[0,2\pi]\times[0
 \right.
 \end{equation}
 and plot $L_1$, $L_2$, $L_{\infty}$ error tables.
-
-
-```
-
-```
