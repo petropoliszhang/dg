@@ -3,7 +3,7 @@ This repositary contains the solution to the coding homework for APMA 2810 Disco
 ### **HW1**
 
 Use DG to find the solution to the following equation:
-<p align="center"><img src="https://rawgit.com/zzhang222/dg/master/svgs/13344509d7232284f0fb074711415c7a.svg?invert_in_darkmode" align=middle width=447.71743994999997pt height=39.452455349999994pt/></p>
+<p align="center"><img src="https://rawgit.com/zzhang222/dg/svgs/13344509d7232284f0fb074711415c7a.svg?invert_in_darkmode" align=middle width=447.71743994999997pt height=39.452455349999994pt/></p>
 and plot <img src="https://rawgit.com/zzhang222/dg/master/svgs/929ed909014029a206f344a28aa47d15.svg?invert_in_darkmode" align=middle width=17.73978854999999pt height=22.465723500000017pt/>, <img src="https://rawgit.com/zzhang222/dg/master/svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.svg?invert_in_darkmode" align=middle width=17.73978854999999pt height=22.465723500000017pt/>, <img src="https://rawgit.com/zzhang222/dg/master/svgs/986e40e0f11ab0c97cfd953d6e3fb747.svg?invert_in_darkmode" align=middle width=24.292324649999987pt height=22.465723500000017pt/> error tables.
 
 ### **HW2**
