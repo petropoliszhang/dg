@@ -3,7 +3,7 @@ This repositary contains the solution to the coding homework for APMA 2810 Disco
 ### **HW1**
 
 Use DG to find the solution to the following equation:
-<p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_x=\cos x, &amp;  0\leq x \leq 1\\&#10;             u(0)=0 &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="https://rawgit.com/zzhang222/dg/master/svgs/13344509d7232284f0fb074711415c7a.png" align="middle" width="447.71743994999997pt" height="39.452455349999994pt"/></p>
+<p align="center"><img alt="\begin{equation}&#10;\left\{&#10;             \begin{array}{lr}&#10;             u_x=\cos x, &amp;  0\leq x \leq 1\\&#10;             u(0)=0 &amp;  &#10;             \end{array}&#10;\right.&#10;\end{equation}" src="svgs/13344509d7232284f0fb074711415c7a.png" align="middle" width="447.71743994999997pt" height="39.452455349999994pt"/></p>
 and plot <img alt="$L_1$" src="https://rawgit.com/zzhang222/dg/master/svgs/929ed909014029a206f344a28aa47d15.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_2$" src="https://rawgit.com/zzhang222/dg/master/svgs/4327ea69d9c5edcc8ddaf24f1d5b47e4.png" align="middle" width="17.73978854999999pt" height="22.465723500000017pt"/>, <img alt="$L_{\infty}$" src="https://rawgit.com/zzhang222/dg/master/svgs/986e40e0f11ab0c97cfd953d6e3fb747.png" align="middle" width="24.292324649999987pt" height="22.465723500000017pt"/> error tables.
 
 ### **HW2**
